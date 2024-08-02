@@ -58,7 +58,7 @@ This project implements a REST API using TypeScript and Node.js, providing acces
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/countries-api.git
+   git clone https://github.com/Adegoke-Gbolahan/countries-api.git
    cd countries-api
    ```
 
